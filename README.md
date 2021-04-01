@@ -1,4 +1,4 @@
 # DefinitelyNotTron
-Definitely NOT Tron!!!
+The definitely NOT Tron game!!!
 
 ***IN DEVELOPEMENT...***
