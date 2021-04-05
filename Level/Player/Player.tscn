@@ -8,10 +8,8 @@ extents = Vector2( 20.6643, 49.0235 )
 
 [node name="Player" type="KinematicBody2D"]
 position = Vector2( 499.166, 204.118 )
+rotation = 1.5708
 script = ExtResource( 2 )
-__meta__ = {
-"_edit_group_": true
-}
 
 [node name="Sprite" type="Sprite" parent="."]
 texture = ExtResource( 1 )
