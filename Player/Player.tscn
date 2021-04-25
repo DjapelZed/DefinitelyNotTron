@@ -3,13 +3,15 @@
 [ext_resource path="res://assets/Motorcycles/motorcycle_black.png" type="Texture" id=1]
 [ext_resource path="res://Player/Player.gd" type="Script" id=2]
 
-
 [sub_resource type="RectangleShape2D" id=1]
 extents = Vector2( 20.6643, 18.1757 )
 
 [node name="Player" type="KinematicBody2D"]
-position = Vector2( 507.112, 203.059 )
+position = Vector2( 113.806, 18.7672 )
 script = ExtResource( 2 )
+__meta__ = {
+"_edit_group_": true
+}
 
 [node name="Sprite" type="Sprite" parent="."]
 rotation = 1.5708
